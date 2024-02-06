@@ -1,0 +1,9 @@
+.search{
+    width: 500px;
+    height: 30px;
+    transition: transform 0.3s;
+}
+
+.search:hover{
+    border-color: red
+}
